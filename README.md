@@ -17,6 +17,7 @@ Move is a programming language for writing safe smart contracts initially develo
 - [Implementing, testing, and verifying a fungible token](https://github.com/move-language/move/tree/main/language/documentation/tutorial) - Maintained by the Move core team.
 - [Programming with objects](https://docs.sui.io/build/programming-with-objects) - Maintained by the Sui team.
 - [Move and SmartContract Development](https://starcoinorg.github.io/starcoin-cookbook/docs/move/) - Maintained by the Starcoin team.
+- [Pick up Move quickly](https://github.com/x24870/move_fastly) - Learn Aptos and Move by examples: counter, message book, bridge, NFT, upgrading module.
 
 
 ## Developer Kit
