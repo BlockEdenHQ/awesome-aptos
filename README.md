@@ -24,7 +24,7 @@ Move is a programming language for writing safe smart contracts initially develo
 
 - [Petra Aptos Wallet](https://chrome.google.com/webstore/detail/petra-aptos-wallet/ejjladinnckdgjemekebdpeokbikhfci) -  a browser extension that lets you explore Aptos in your browser made by Aptos Labs.
 - [Aptos Explorer](https://explorer.aptoslabs.com/) - An Aptos Blockchain Explorer.
-- [Block Eden Aptos Node & API service](http://blockeden.xyz/) - secure and reliable Aptos REST and GraphQL API service.
+- [Block Eden Aptos Node & API service](http://blockeden.xyz/) - secure and reliable Aptos REST and GraphQL API service ([source code](https://github.com/BlockEdenHQ/web-blockeden-home)).
 - SDKs for [TypeScript](https://aptos.dev/sdks/ts-sdk/index), [Python](https://aptos.dev/sdks/python-sdk), [Rust](https://aptos.dev/sdks/rust-sdk) - Software development kits for developers to import and use.
 
 ## Projects
