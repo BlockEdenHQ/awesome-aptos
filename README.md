@@ -29,6 +29,7 @@ Move is a programming language for writing safe smart contracts initially develo
 
 ## Projects
 
-- [Liquidswap](liquidswap.com) ([contracts](https://github.com/pontem-network/liquidswap), [audits](https://docs.liquidswap.com/#security-audits), [test coin](https://github.com/pontem-network/test-coins), [TypeScript SDK](https://github.com/pontem-network/liquidswap-sdk), [Discord](https://discord.gg/44QgPFHYqs)) - Aptos-native crypto exchange and AMM
+- [Liquidswap](https://liquidswap.com) - Aptos-native crypto exchange and AMM ([contracts](https://github.com/pontem-network/liquidswap), [audits](https://docs.liquidswap.com/#security-audits), [test coin](https://github.com/pontem-network/test-coins), [TypeScript SDK](https://github.com/pontem-network/liquidswap-sdk), [Discord](https://discord.gg/44QgPFHYqs)).
+- [aptoswap](https://aptoswap.net/) - Lighweight & Powerful Swap Platform powered by Aptos blockchain ([source code](https://github.com/vividnetwork)).
 
 > **We are committed to keeping this doc up-to-date with the best resources. Please give it a ⭐️ or fork it to stay in touch 🔥**
