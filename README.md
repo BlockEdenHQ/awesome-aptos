@@ -34,5 +34,6 @@ Move is a programming language for writing safe smart contracts initially develo
 - [aptoswap](https://aptoswap.net/) - Lighweight & Powerful Swap Platform powered by Aptos blockchain ([source code](https://github.com/vividnetwork)).
 - [AnimeSwap](https://animeswap.org/) - AMM protocol for Aptos blockchain ([source code](https://github.com/AnimeSwap/v1-core)).
 - [Sentio Composer](http://composer.sentio.xyz/) - a view function simulator for the Aptos blockchain ([source code](https://github.com/sentioxyz/sentio-composer)).
+- [Hippo.space](https://hippo.space/) - Defi Aggregator for Aptos ([source code](https://github.com/hippospace)).
 
 > **We are committed to keeping this doc up-to-date with the best resources. Please give it a ⭐️ or fork it to stay in touch 🔥**
